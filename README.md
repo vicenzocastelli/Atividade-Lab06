@@ -1,5 +1,9 @@
 # AI ENGINEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
 
+
+REALIZADO POR VICENZO CASTELLI
+
+
 ## Processamento Digital de Imagens
 
 **Atividade prática individual.**
